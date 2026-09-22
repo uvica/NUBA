@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-// Metadata for the site
+// Metadata for the site  
 export const metadata: Metadata = {
 	title: "NUBA | Curated Artistry in Leather",
 	description: "Handcrafted leather goods, shaped slowly in the atelier.",
